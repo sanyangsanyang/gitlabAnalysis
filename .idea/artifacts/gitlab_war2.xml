@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gitlab:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/gitlab_war2</output-path>
+    <root id="archive" name="gitlab_war.war">
+      <element id="artifact" artifact-name="gitlab:war exploded" />
+    </root>
+  </artifact>
+</component>
